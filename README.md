@@ -34,7 +34,7 @@ npm install
 Create a `.env` file in the root of the `frontend` folder:
 
 ```
-VITE_BACKEND_URL=http://localhost:5000
+VITE_BACKEND_URL=https://wellness-session-backend-m43m.onrender.com
 ```
 
 ### 4. Start the Development Server
