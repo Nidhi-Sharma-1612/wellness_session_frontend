@@ -79,7 +79,7 @@ The frontend interacts with the following backend routes:
 
 ## 🔗 Live Demo
 
-[Demo Link](https://your-frontend-deployment.vercel.app)
+[Demo Link](https://wellness-session-frontend.vercel.app)
 
 ## 🧪 Bonus Features
 
